@@ -1,2 +1,1 @@
-worker: python -m pip install discord
-worker: python bot.py
+web: python bot.py

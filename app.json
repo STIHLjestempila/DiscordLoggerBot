@@ -1,0 +1,6 @@
+{
+  "name": "DiscordLoggerBot",
+  "description": "DiscordLoggerBot",
+  "image": "heroku/python",
+  "repository": "https://github.com/heroku/python-getting-started"
+}
